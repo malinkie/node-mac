@@ -1,0 +1,29 @@
+{
+  "name": "node-mac",
+  "version": "0.0.0",
+  "description": "Mac address utilities for node.js",
+  "main": ".lib/mac_utils.js",
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+    "tape": "*"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "bin/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malinkie/node-mac.git"
+  },
+  "keywords": [
+    "node.js",
+    "mac",
+    "address"
+  ],
+  "author": "Scott Morrice",
+  "license": "BSD"
+}
